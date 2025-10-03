@@ -1,0 +1,6 @@
+@cm_be_biu_HostAddress = http://localhost:5201
+
+GET {{cm_be_biu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
